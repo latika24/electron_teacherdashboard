@@ -13,9 +13,12 @@ Install dependencies with npm :
 ``` bash
 npm install
 ```
-FOR MEDIA RECORDER -
+FOR MEDIA RECORDER :
+
+''' bash
 npm install -D @types/dom-mediacapture-record
 
+'''
 
 
 
