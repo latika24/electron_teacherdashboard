@@ -15,11 +15,9 @@ npm install
 ```
 FOR MEDIA RECORDER :
 
-''' bash
+``` bash
 npm install -D @types/dom-mediacapture-record
-
-'''
-
+```
 
 
 
